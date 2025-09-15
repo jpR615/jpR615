@@ -1,7 +1,7 @@
 - 👋 Hi, I’m J.P. Rogers!
-- 🎓I'm a second year CS student at Ball State University
+- 🎓I'm a third year CS student at Ball State University
 - 👀 I’m interested in data analytics and machine learning
-- 🌱 I’m currently learning about algorithms, software engineering, and computer architecture
+- 🌱 I’m currently learning about data analytics, software engineering, data vizualization, and OS/Networks
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I play the guitar 😁
 
