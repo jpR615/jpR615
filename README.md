@@ -1,5 +1,5 @@
 - 👋 Hi, I’m J.P. Rogers!
-- 🎓I'm a third year CS student at Ball State University
+- 🎓I'm a fourth year CS student at Ball State University
 - 👀 I’m interested in data analytics and machine learning
 - 🌱 I’m currently learning about data mining, software engineering, and database design
 - 😄 Pronouns: he/him
